@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink">#DC8DB8</color>
+    <color name="blue">#84ADFF</color>
+    <color name="btn_blue">#7CA4FF</color>
+    <color name="btn_text_color">#FF14161F</color>
+    <color name="card_bg">#FF262935</color>
+    <color name="screen_bg">#FF1C1B1F</color>
+    <color name="text_primary">#FFE6E6E6</color>
+    <color name="text_secondary">#FFA0A5B5</color>
+    <color name="heart_tint">#FFFFFFFF</color>
+</resources>

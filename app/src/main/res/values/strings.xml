@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">24012021002_MAD_p6</string>
+    <string name="header_title">MAD_Animation_Practical</string>
+    <string name="create_alarm_title">Create Alarm Time</string>
+    <string name="create_alarm_desc">By pressing buttons, Alarm can be created and cancelled.</string>
+    <string name="check_digital_clock">Check Current time by looking below real digital clock.</string>
+    <string name="btn_create_alarm">Create Alarm</string>
+    <string name="btn_cancel_alarm">Cancel Alarm</string>
+</resources>
